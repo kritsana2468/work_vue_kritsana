@@ -11,7 +11,7 @@
 <style>
 .bg{
   /* background-color: #0989ff; */
-  background: linear-gradient(to top right,#5842ff,#0989ff,#038fff);
+  background: linear-gradient(to top right,#9b9b9b,#9b9b9b,#9b9b9b);
 }
 
 </style>
